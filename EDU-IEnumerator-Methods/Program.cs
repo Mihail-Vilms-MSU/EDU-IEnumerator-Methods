@@ -6,7 +6,7 @@ namespace EDU_IEnumerator_Methods
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("RUN TESTS!"); 
         }
     }
 }
